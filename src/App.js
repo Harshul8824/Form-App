@@ -37,7 +37,7 @@ function App() {
         <option>India</option>
         <option>US</option>
         <option>Canada</option>
-        <option>Maxico</option>
+        <option>London</option>
       </select>
 
         <br />  <br />
